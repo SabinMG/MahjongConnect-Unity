@@ -1,0 +1,11 @@
+Library/
+Temp/
+obj/
+MahjongConnect-Unity.sln
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+.vs/MahjongConnect-Unity/v15/Server/sqlite3/storage.ide-wal
+.vs/MahjongConnect-Unity/v15/Server/sqlite3/storage.ide-shm
+.vs/MahjongConnect-Unity/v15/Server/sqlite3/storage.ide
+.vs/MahjongConnect-Unity/v15/Server/sqlite3/db.lock
+.vs/MahjongConnect-Unity/v15/.suo
